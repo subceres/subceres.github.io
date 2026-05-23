@@ -1,0 +1,10 @@
+What i learnt from making this website
+
+23/5/26
+Website creation
+
+You can test the website locally by pressing F5, cool
+To comment in html, use <!-- text -->
+<style> uses css instead
+TO comment in css, use /* text */
+Head defines the stuff used in the file, body has the text in the file
